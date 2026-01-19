@@ -46,7 +46,7 @@ Player (Abstract)
 ├── Warrior (Bonus combat power)
 └── Sorcerer (Bonus magic power)
 ```
-💻 How to Build and Run
+## 💻 How to Build and Run
 Clone the repository:
 
 Bash
@@ -58,9 +58,7 @@ Bash
 
 g++ -std=c++11 -o mtmchkin *.cpp
 Run:
-
 Bash
-
 ./mtmchkin deck.txt players.txt
-👨‍💻 Author
+## 👨‍💻 Author
 Abdalla Zoubi
