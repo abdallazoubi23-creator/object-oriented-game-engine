@@ -45,7 +45,7 @@ Card (Abstract)
 Player (Abstract)
 ├── Warrior (Bonus combat power)
 └── Sorcerer (Bonus magic power)
-
+```
 💻 How to Build and Run
 Clone the repository:
 
